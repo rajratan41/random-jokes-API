@@ -2,6 +2,6 @@
 
 - Assignment Project given in Ineuron Fullstack JavaScript Bootcamp
 
-[Live Link]()
+[Live Link](https://randomjokesgen.netlify.app/)
 
-![Image]()
+![Image](./Image/random%20jokes.png)
